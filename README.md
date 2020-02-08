@@ -12,4 +12,5 @@ Esse Projeto é mobile hybrid que consome a [API](https://github.com/lucaslop/Pr
 
 ## Resultado
 
-![image](https://user-images.githubusercontent.com/38164895/74092511-ceed3c00-4aa3-11ea-8d0d-1be27c8a68f7.png)
+![image](https://user-images.githubusercontent.com/38164895/74092535-2d1a1f00-4aa4-11ea-8f9b-2dbd0ee5c598.png)
+
